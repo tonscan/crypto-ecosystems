@@ -4,6 +4,7 @@ title = "TON"
 sub_ecosystems = ["BlockWit", "OpenProduct", "Tonana", "Tonswap"]
 
 github_organizations = [
+   "https://github.com/catchain",
   "https://github.com/LiberMall",
   "https://github.com/TegroTON",
   "https://github.com/ton-blockchain",
